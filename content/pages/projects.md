@@ -30,7 +30,7 @@ SAMPLE PROJECTS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Project 1: Reflections in a Euclidean Space ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs1.tex)) ([PS]({{< baseurl >}}/resources/rs1-1)) ([PDF]({{< baseurl >}}/resources/rs1))
+Project 1: Reflections in a Euclidean Space ([TEX]({{< baseurl >}}/resources/rs1-1)) ([PS]({{< baseurl >}}/resources/rs1-2)) ([PDF]({{< baseurl >}}/resources/rs1))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 1 by Philip Brocoum ([PDF]({{< baseurl >}}/resources/1806ciphil)) (Courtesy of Philip Brocoum. Used with permission.)
@@ -42,7 +42,7 @@ Project 1 by Philip Brocoum ([PDF]({{< baseurl >}}/resources/1806ciphil)) (Court
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Project 2: Abstract Root Systems ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs2.tex)) ([PS]({{< baseurl >}}/resources/rs2-1)) ([PDF]({{< baseurl >}}/resources/rs2))
+Project 2: Abstract Root Systems ([TEX]({{< baseurl >}}/resources/rs2-1)) ([PS]({{< baseurl >}}/resources/rs2-2)) ([PDF]({{< baseurl >}}/resources/rs2))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 2 by Matthew Herman ([PDF]({{< baseurl >}}/resources/finalproject_2)) (Courtesy of Matthew Herman. Used with permission.)
@@ -54,7 +54,7 @@ Project 2 by Matthew Herman ([PDF]({{< baseurl >}}/resources/finalproject_2)) (C
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Project 3: Simple and Positive Roots ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs3.tex)) ([PS]({{< baseurl >}}/resources/rs3-1)) ([PDF]({{< baseurl >}}/resources/rs3))
+Project 3: Simple and Positive Roots ([TEX]({{< baseurl >}}/resources/rs3)) ([PS]({{< baseurl >}}/resources/rs3-2)) ([PDF]({{< baseurl >}}/resources/rs3-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 3 by Juha Valkama ([PDF]({{< baseurl >}}/resources/jsv_final_project_3)) (Courtesy of Juha Valkama. Used with permission.)
@@ -66,7 +66,7 @@ Project 3 by Juha Valkama ([PDF]({{< baseurl >}}/resources/jsv_final_project_3))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Project 4: Properties of Simple Roots ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs4.tex)) ([PS]({{< baseurl >}}/resources/rs4)) ([PDF]({{< baseurl >}}/resources/rs4-1))
+Project 4: Properties of Simple Roots ([TEX]({{< baseurl >}}/resources/rs4)) ([PS]({{< baseurl >}}/resources/rs4-1)) ([PDF]({{< baseurl >}}/resources/rs4-2))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 4 by Eric Broder ([PDF]({{< baseurl >}}/resources/paper4)) (Courtesy of Eric Broder. Used with permission.)
@@ -78,7 +78,7 @@ Project 4 by Eric Broder ([PDF]({{< baseurl >}}/resources/paper4)) (Courtesy of 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Project 5: Cartan Matrix of a Root System ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs5.tex)) ([PS]({{< baseurl >}}/resources/rs5-1)) ([PDF]({{< baseurl >}}/resources/rs5))
+Project 5: Cartan Matrix of a Root System ([TEX]({{< baseurl >}}/resources/rs5-1)) ([PS]({{< baseurl >}}/resources/rs5-2)) ([PDF]({{< baseurl >}}/resources/rs5))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 5 by Thomas Covert ([PDF]({{< baseurl >}}/resources/final_project_5)) (Courtesy of Thomas Covert. Used with permission.)
@@ -90,7 +90,7 @@ Project 5 by Thomas Covert ([PDF]({{< baseurl >}}/resources/final_project_5)) (C
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Project 6: Dynkin Diagrams and Classification ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/projects/rs61.tex)) ([PS]({{< baseurl >}}/resources/rs61-1)) ([PDF]({{< baseurl >}}/resources/rs61))
+Project 6: Dynkin Diagrams and Classification ([TEX]({{< baseurl >}}/resources/rs61-2)) ([PS]({{< baseurl >}}/resources/rs61-1)) ([PDF]({{< baseurl >}}/resources/rs61))
 {{< tdclose >}}
 {{< tdopen >}}
 Project 6 not yet available

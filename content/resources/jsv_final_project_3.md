@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: de3df049-521c-7063-56c9-8fdb65ea58aa
 resourcetype: Document
 title: jsv_final_project_3.pdf
 uid: 41fe279d-b3bb-d487-a368-3633a11397b5

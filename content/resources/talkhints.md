@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f390261c-2752-7685-acba-e21973c91d46
 resourcetype: Document
 title: talkhints.pdf
 uid: 12880584-9a67-16d1-2a9e-6231f014d3e3

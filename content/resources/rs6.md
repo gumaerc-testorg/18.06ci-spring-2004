@@ -1,14 +1,15 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/169f50c3208f76cb38139daccb492d97_rs6.pdf
-file_type: application/pdf
+file: /media/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/33f95ccffb6624a38317541317564419_rs6.tex
+file_type: text/plain
 learning_resource_types:
 - Projects
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
-resourcetype: Document
-title: rs6.pdf
-uid: 169f50c3-208f-76cb-3813-9daccb492d97
+parent_uid: de3df049-521c-7063-56c9-8fdb65ea58aa
+resourcetype: Other
+title: rs6.tex
+uid: 33f95ccf-fb66-24a3-8317-541317564419
 ---

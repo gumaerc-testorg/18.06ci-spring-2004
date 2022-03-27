@@ -30,10 +30,10 @@ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #1 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/al1.tex)) ([PS]({{< baseurl >}}/resources/al1-1)) ([PDF]({{< baseurl >}}/resources/al1))
+Homework #1 ([TEX]({{< baseurl >}}/resources/al1-1)) ([PS]({{< baseurl >}}/resources/al1-2)) ([PDF]({{< baseurl >}}/resources/al1))
 {{< tdclose >}}
 {{< tdopen >}}
-([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/hw1.tex)) ([PDF]({{< baseurl >}}/resources/hw1))
+([TEX]({{< baseurl >}}/resources/hw1)) ([PDF]({{< baseurl >}}/resources/hw1-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,10 +42,10 @@ Homework #1 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-in
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #2 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/al2.tex)) ([PS]({{< baseurl >}}/resources/al2-1)) ([PDF]({{< baseurl >}}/resources/al2))
+Homework #2 ([TEX]({{< baseurl >}}/resources/al2-1)) ([PS]({{< baseurl >}}/resources/al2-2)) ([PDF]({{< baseurl >}}/resources/al2))
 {{< tdclose >}}
 {{< tdopen >}}
-([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/hw2.tex)) ([PDF]({{< baseurl >}}/resources/hw2))
+([TEX]({{< baseurl >}}/resources/hw2)) ([PDF]({{< baseurl >}}/resources/hw2-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,10 +54,10 @@ Homework #2 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-in
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #3 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/al3.tex)) ([PS]({{< baseurl >}}/resources/al3-1)) ([PDF]({{< baseurl >}}/resources/al3))
+Homework #3 ([TEX]({{< baseurl >}}/resources/al3)) ([PS]({{< baseurl >}}/resources/al3-2)) ([PDF]({{< baseurl >}}/resources/al3-1))
 {{< tdclose >}}
 {{< tdopen >}}
-([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/hw3.tex)) ([PDF]({{< baseurl >}}/resources/hw3))
+([TEX]({{< baseurl >}}/resources/hw3-1)) ([PDF]({{< baseurl >}}/resources/hw3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,10 +66,10 @@ Homework #3 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-in
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #4 ([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/al4.tex)) ([PS]({{< baseurl >}}/resources/al4)) ([PDF]({{< baseurl >}}/resources/al4-1))
+Homework #4 ([TEX]({{< baseurl >}}/resources/al4-2)) ([PS]({{< baseurl >}}/resources/al4)) ([PDF]({{< baseurl >}}/resources/al4-1))
 {{< tdclose >}}
 {{< tdopen >}}
-([TEX](/courses/mathematics/18-06ci-linear-algebra-communications-intensive-spring-2004/assignments/hw4.tex)) ([PDF]({{< baseurl >}}/resources/hw4))
+([TEX]({{< baseurl >}}/resources/hw4)) ([PDF]({{< baseurl >}}/resources/hw4-1))
 {{< tdclose >}}
 
 {{< trclose >}}

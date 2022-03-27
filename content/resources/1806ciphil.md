@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: de3df049-521c-7063-56c9-8fdb65ea58aa
 resourcetype: Document
 title: 1806ciphil.pdf
 uid: 8e6e793d-6905-9ef1-bf62-d7d91eb7de08

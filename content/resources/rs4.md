@@ -1,14 +1,15 @@
 ---
 content_type: resource
-description: Project information in PS format.
-file: /media/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/98376b63e5e85c14af492d71e438f3d8_rs4.ps
-file_type: application/postscript
+description: Project information in TEX format.
+file: /media/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/5539f472155ecad90da8e6f613e0627e_rs4.tex
+file_type: text/plain
 learning_resource_types:
 - Projects
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: de3df049-521c-7063-56c9-8fdb65ea58aa
 resourcetype: Other
-title: rs4.ps
-uid: 98376b63-e5e8-5c14-af49-2d71e438f3d8
+title: rs4.tex
+uid: 5539f472-155e-cad9-0da8-e6f613e0627e
 ---
