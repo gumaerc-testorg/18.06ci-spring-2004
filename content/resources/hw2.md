@@ -1,16 +1,22 @@
 ---
 content_type: resource
-description: Problem set solutions in TEX format. The solutions are courtesy of Juha
-  Valkama, a student in the class.
-file: /media/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/4e1dbe655883af44167d94f25d83ee72_hw2.tex
-file_type: text/plain
+description: Problem set solutions are courtesy of Juha Valkama, a student in the
+  class.
+file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/3b150a18d20a77099409fe634799574b_hw2.pdf
+file_type: application/pdf
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 87094652-ad49-026a-e057-83c2d5d19014
-resourcetype: Other
-title: hw2.tex
-uid: 4e1dbe65-5883-af44-167d-94f25d83ee72
+resourcetype: Document
+title: hw2.pdf
+uid: 3b150a18-d20a-7709-9409-fe634799574b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Problem set solutions are courtesy of Juha Valkama, a student in the class.
+
