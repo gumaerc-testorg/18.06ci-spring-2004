@@ -5,6 +5,7 @@ file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/7fca9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Final student project report courtesy of Matthew Herman.
-

@@ -6,6 +6,7 @@ file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/3e58e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set solutions are courtesy of Juha Valkama, a student in the class.
-

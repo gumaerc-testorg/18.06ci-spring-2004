@@ -4,6 +4,7 @@ description: This sample material is designed to help you learn to utilize Latex
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/e8099d94f6ae360e7e307073371e275e_sample2.tex
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This sample material is designed to help you learn to utilize Latex.
-
