@@ -39,8 +39,10 @@
     "website": "18-06ci-linear-algebra-communications-intensive-spring-2004"
   },
   "learning_resource_types": [
-    "Projects with Examples"
+    "Projects with Examples",
+    "Problem Sets with Solutions"
   ],
-  "site_uid": "68c730af-d48c-4aed-8226-02747be75055",
+  "site_uid": "dfbb9e00-0f50-48ec-b8e2-6692859df2e4",
+  "site_short_id": "18.06ci-spring-2004",
   "title": "Course Metadata"
 }
