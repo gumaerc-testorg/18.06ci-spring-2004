@@ -28,7 +28,8 @@
     "website": "18-06ci-linear-algebra-communications-intensive-spring-2004"
   },
   "course_title": "Linear Algebra - Communications Intensive",
-  "course_description": "This is a communication intensive supplement to Linear Algebra ([18.06](courses/18-06-linear-algebra-spring-2005)). The main emphasis is on the methods of creating rigorous and elegant proofs and presenting them clearly in writing. The course starts with the standard linear algebra syllabus and eventually develops the techniques to approach a more advanced topic: abstract root systems in a Euclidean space.\n",
+  "hide_download": false,
+  "course_description": "This is a communication intensive supplement to Linear Algebra ({{% resource_link \"0c9d081b-face-48af-b712-1d0bc503ece2\" \"18.06\" %}}). The main emphasis is on the methods of creating rigorous and elegant proofs and presenting them clearly in writing. The course starts with the standard linear algebra syllabus and eventually develops the techniques to approach a more advanced topic: abstract root systems in a Euclidean space.",
   "department_numbers": [
     "18"
   ],
