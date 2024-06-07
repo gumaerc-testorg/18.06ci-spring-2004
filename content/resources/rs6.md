@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/169f50c3208f76cb38139daccb492d97_rs6.pdf
+file_size: 121293
 file_type: application/pdf
 learning_resource_types:
 - Projects

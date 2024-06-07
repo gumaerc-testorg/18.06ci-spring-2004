@@ -2,6 +2,7 @@
 content_type: resource
 description: This sample material is designed to help you learn to utilize Latex.
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/ffed814893f1c2489d7a1e98a7c9a5c9_sample3.tex
+file_size: 388
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
