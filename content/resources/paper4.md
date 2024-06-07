@@ -2,6 +2,7 @@
 content_type: resource
 description: Final student project report courtesy of Eric Broder.
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/f40c55872f069ab7b60de17b84a36016_paper4.pdf
+file_size: 237773
 file_type: application/pdf
 learning_resource_types:
 - Projects

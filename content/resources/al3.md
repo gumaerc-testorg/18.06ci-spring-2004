@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/f8f2d8ded4521aa1e66ade73ddb013de_al3.pdf
+file_size: 52393
 file_type: application/pdf
 learning_resource_types:
 - Assignments
