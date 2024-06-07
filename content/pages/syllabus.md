@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: 'This is the course syllabus. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -19,7 +19,7 @@ Recitations: 1 session / week, .5 hour / session
 
 ## Description
 
-This course is a communication intensive supplement to [*18.06 Linear Algebra*](/courses/18-06-linear-algebra-spring-2005). We will go over the 18.06 syllabus, considering some topics in more depth. The main emphasis will be on the methods of creating rigorous and elegant proofs and presenting them clearly in writing.
+This course is a communication intensive supplement to [*18.06 Linear Algebra*](/courses/18-06-linear-algebra-spring-2010/). We will go over the 18.06 syllabus, considering some topics in more depth. The main emphasis will be on the methods of creating rigorous and elegant proofs and presenting them clearly in writing.
 
 ## Recommended Text
 
