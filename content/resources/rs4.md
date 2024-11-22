@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project information in PS format.
-file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/98376b63e5e85c14af492d71e438f3d8_rs4.ps
+file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/98376b63e5e85c14af492d71e438f3d8_rs4.ps
 file_size: 181504
 file_type: application/postscript
 learning_resource_types:
