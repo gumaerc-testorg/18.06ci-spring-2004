@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This sample material is designed to help you learn to utilize Latex.
-file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/e8099d94f6ae360e7e307073371e275e_sample2.tex
+file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/e8099d94f6ae360e7e307073371e275e_sample2.tex
 file_size: 279
 file_type: text/plain
 learning_resource_types: []
