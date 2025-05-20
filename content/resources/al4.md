@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set in PS format.
-file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/01a881d43532e98b80761cae7813e8e7_al4.ps
+file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/01a881d43532e98b80761cae7813e8e7_al4.ps
 file_size: 81970
 file_type: application/postscript
 learning_resource_types:

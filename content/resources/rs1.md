@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project instructions and guidelines.
-file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/428b195c632c51fc7f7ac20eb1a3034f_rs1.pdf
+file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/428b195c632c51fc7f7ac20eb1a3034f_rs1.pdf
 file_size: 119715
 file_type: application/pdf
 learning_resource_types:

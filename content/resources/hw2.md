@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set solutions are courtesy of Juha Valkama, a student in the
   class.
-file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/3b150a18d20a77099409fe634799574b_hw2.pdf
+file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/3b150a18d20a77099409fe634799574b_hw2.pdf
 file_size: 82872
 file_type: application/pdf
 learning_resource_types:
