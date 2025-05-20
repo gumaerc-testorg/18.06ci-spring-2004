@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final student project report courtesy of Matthew Herman.
-file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/7fca97998d852674da8efd8667900088_finalproject_2.pdf
+file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/7fca97998d852674da8efd8667900088_finalproject_2.pdf
 file_size: 165674
 file_type: application/pdf
 learning_resource_types:
