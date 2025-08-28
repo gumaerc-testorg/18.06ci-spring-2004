@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final student project report courtesy of Philip Brocoum.
-file: /courses/18-06ci-linear-algebra-communications-intensive-spring-2004/8e6e793d69059ef1bf62d7d91eb7de08_1806ciphil.pdf
+file: /ol-ocw-studio-app/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/8e6e793d69059ef1bf62d7d91eb7de08_1806ciphil.pdf
 file_size: 224913
 file_type: application/pdf
 learning_resource_types:
